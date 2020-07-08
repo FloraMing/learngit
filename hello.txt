@@ -1,4 +1,4 @@
 hello,flora
 welcome to the Git World!
 
-the first change
+the first change,the second change
